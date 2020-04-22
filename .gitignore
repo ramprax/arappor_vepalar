@@ -13,3 +13,11 @@
 /Sivaganga-Cards-final/
 /Symbols-20190409T112756Z-001/
 /Vizhuppuram-Cards-Final/
+.idea
+.settings
+election2
+*.iml
+*.log
+TEMP
+_classpath.xml
+_project.xml
